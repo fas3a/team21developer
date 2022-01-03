@@ -1,1 +1,2 @@
-Hello, my name is Chukwumee Onyinye.V, Onyii for short. I'm a frontend developer good with Html, Css and a little of Javascript. I'm also kinda new to ReactJs but I hope to achieve more during the course of this project. Hope to work with you all.
+Hello, my name is Chukwumee Onyinye Vivian, Onyii for short. 
+I'm a frontend developer good with Html, Css and a little of Javascript. I'm also kinda new to ReactJs but I hope to achieve more during the course of this project. Hope to work with you all.
