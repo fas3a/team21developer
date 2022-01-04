@@ -8,4 +8,3 @@
 ## My target
 
 1. To learn React
-2. to be comfortable learning how to use react components.
