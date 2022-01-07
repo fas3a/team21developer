@@ -1,2 +1,3 @@
 My name is Fas3a
 I wish to have more experience in HTML, CSS, JS and ReactJs. By the end of the 30 code challenge, I should be able to have completed several projects.
+I shall be dedicated to this work
